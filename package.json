@@ -1,0 +1,12 @@
+{
+  "name": "espiao",
+  "version": "1.0.0",
+  "description": "Skill do Claude Code que acha os concorrentes e lê os anúncios ativos deles na Biblioteca de Anúncios da Meta, sem login.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Wesley Porto",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
